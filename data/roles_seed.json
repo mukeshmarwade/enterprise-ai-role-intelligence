@@ -1,0 +1,1549 @@
+[
+  {
+    "role": "Finance Analyst",
+    "level": "Analyst",
+    "processes": [
+      "Budgeting",
+      "Forecasting",
+      "Management Reporting"
+    ],
+    "current_skills": [
+      "Excel modelling",
+      "Variance analysis",
+      "Financial statements",
+      "SQL basics"
+    ],
+    "ai_exposure_today": "Uses BI dashboards and Excel add-ins for variance analysis; limited automation of reporting.",
+    "activities": [
+      {
+        "activity": "Transaction reconciliation",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Variance analysis",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Forecasting & scenario planning",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": true,
+        "interpersonal": false,
+        "weight": 30
+      },
+      {
+        "activity": "Stakeholder reporting & storytelling",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": false,
+        "requires_creativity": true,
+        "interpersonal": true,
+        "weight": 20
+      }
+    ],
+    "new_responsibilities": [
+      "Validating AI-generated forecasts",
+      "Explaining model outputs to leadership"
+    ],
+    "future_skills": [
+      "AI-driven financial modelling",
+      "Prompt engineering",
+      "Regulatory compliance",
+      "Data storytelling"
+    ]
+  },
+  {
+    "role": "Procurement Analyst",
+    "level": "Analyst",
+    "processes": [
+      "Sourcing",
+      "Vendor Management",
+      "Contract Compliance"
+    ],
+    "current_skills": [
+      "Vendor negotiation",
+      "Spend analysis",
+      "Contract review",
+      "ERP (SAP/Ariba)"
+    ],
+    "ai_exposure_today": "Spend-analytics dashboards; manual vendor risk scoring.",
+    "activities": [
+      {
+        "activity": "Vendor risk scoring",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Contract compliance checks",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 20
+      },
+      {
+        "activity": "Supplier negotiation",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 30
+      },
+      {
+        "activity": "Supply chain scenario planning",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": true,
+        "interpersonal": false,
+        "weight": 25
+      }
+    ],
+    "new_responsibilities": [
+      "Overseeing AI-driven supplier scoring",
+      "Sustainability metrics ownership"
+    ],
+    "future_skills": [
+      "AI-enabled supply chain optimisation",
+      "Sustainability metrics",
+      "Negotiation analytics"
+    ]
+  },
+  {
+    "role": "Accounts Payable Clerk",
+    "level": "Entry",
+    "processes": [
+      "Invoice Processing",
+      "Payments"
+    ],
+    "current_skills": [
+      "Data entry",
+      "Invoice matching",
+      "ERP navigation"
+    ],
+    "ai_exposure_today": "OCR-based invoice capture partially deployed.",
+    "activities": [
+      {
+        "activity": "Invoice data entry",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 35
+      },
+      {
+        "activity": "Three-way invoice matching",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 30
+      },
+      {
+        "activity": "Payment run processing",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 20
+      },
+      {
+        "activity": "Exception / dispute handling",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 15
+      }
+    ],
+    "new_responsibilities": [
+      "Reviewing AI-flagged exceptions",
+      "Vendor query escalation"
+    ],
+    "future_skills": [
+      "Exception-handling judgment",
+      "AI tool supervision",
+      "Basic data literacy"
+    ]
+  },
+  {
+    "role": "Accounts Receivable Specialist",
+    "level": "Entry",
+    "processes": [
+      "Billing",
+      "Collections"
+    ],
+    "current_skills": [
+      "Invoicing",
+      "Collections calls",
+      "Aging report analysis"
+    ],
+    "ai_exposure_today": "Automated dunning emails; manual collections calls.",
+    "activities": [
+      {
+        "activity": "Invoice generation",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Aging report review",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": false,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 20
+      },
+      {
+        "activity": "Collections outreach",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 35
+      },
+      {
+        "activity": "Dispute resolution",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 20
+      }
+    ],
+    "new_responsibilities": [
+      "Managing AI-prioritised collections queues"
+    ],
+    "future_skills": [
+      "Negotiation",
+      "AI-assisted prioritisation",
+      "Customer relationship management"
+    ]
+  },
+  {
+    "role": "Financial Controller",
+    "level": "Manager",
+    "processes": [
+      "Financial Close",
+      "Internal Controls",
+      "Statutory Reporting"
+    ],
+    "current_skills": [
+      "GAAP/IFRS",
+      "Team leadership",
+      "Audit management",
+      "ERP governance"
+    ],
+    "ai_exposure_today": "Automated close checklists; manual control testing.",
+    "activities": [
+      {
+        "activity": "Month-end close coordination",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Internal control testing",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Statutory & regulatory reporting",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 20
+      },
+      {
+        "activity": "Team leadership & escalation management",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 30
+      }
+    ],
+    "new_responsibilities": [
+      "Governing AI model outputs used in close",
+      "Audit trail for AI-assisted entries"
+    ],
+    "future_skills": [
+      "AI governance",
+      "Controls-by-design",
+      "Regulatory technology (RegTech)"
+    ]
+  },
+  {
+    "role": "Treasury Analyst",
+    "level": "Analyst",
+    "processes": [
+      "Cash Management",
+      "Liquidity Forecasting",
+      "FX Risk"
+    ],
+    "current_skills": [
+      "Cash flow modelling",
+      "FX hedging basics",
+      "Banking platforms"
+    ],
+    "ai_exposure_today": "Cash forecasting spreadsheets; limited predictive tooling.",
+    "activities": [
+      {
+        "activity": "Daily cash positioning",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Liquidity forecasting",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 30
+      },
+      {
+        "activity": "FX exposure analysis",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Bank relationship coordination",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 20
+      }
+    ],
+    "new_responsibilities": [
+      "Validating AI liquidity forecasts",
+      "Scenario stress-testing oversight"
+    ],
+    "future_skills": [
+      "Predictive treasury analytics",
+      "AI-assisted risk modelling"
+    ]
+  },
+  {
+    "role": "Treasury Manager",
+    "level": "Manager",
+    "processes": [
+      "Capital Structure",
+      "Funding Strategy",
+      "Risk Policy"
+    ],
+    "current_skills": [
+      "Capital markets knowledge",
+      "Team leadership",
+      "Risk policy design"
+    ],
+    "ai_exposure_today": "Manual scenario modelling for funding decisions.",
+    "activities": [
+      {
+        "activity": "Funding strategy design",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": true,
+        "interpersonal": false,
+        "weight": 30
+      },
+      {
+        "activity": "Risk policy governance",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": true,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Investor/lender relationship management",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 25
+      },
+      {
+        "activity": "Scenario & stress test review",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 20
+      }
+    ],
+    "new_responsibilities": [
+      "Overseeing AI-generated funding scenarios"
+    ],
+    "future_skills": [
+      "AI-assisted capital planning",
+      "Strategic negotiation"
+    ]
+  },
+  {
+    "role": "Risk Analyst",
+    "level": "Analyst",
+    "processes": [
+      "Risk Identification",
+      "Risk Modelling",
+      "Reporting"
+    ],
+    "current_skills": [
+      "Statistical modelling",
+      "Risk frameworks",
+      "Python/R"
+    ],
+    "ai_exposure_today": "ML-based credit/market risk models already in partial use.",
+    "activities": [
+      {
+        "activity": "Risk data aggregation",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Model calibration & backtesting",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 30
+      },
+      {
+        "activity": "Emerging risk scenario design",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": true,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Risk committee reporting",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 20
+      }
+    ],
+    "new_responsibilities": [
+      "Validating AI risk model outputs",
+      "Model risk governance"
+    ],
+    "future_skills": [
+      "Model risk management",
+      "Explainable AI (XAI) techniques"
+    ]
+  },
+  {
+    "role": "Internal Auditor",
+    "level": "Analyst",
+    "processes": [
+      "Audit Planning",
+      "Control Testing",
+      "Reporting"
+    ],
+    "current_skills": [
+      "Audit standards",
+      "Sampling techniques",
+      "Data analytics"
+    ],
+    "ai_exposure_today": "Analytics-assisted sampling; manual audit judgment.",
+    "activities": [
+      {
+        "activity": "Control walkthroughs",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Sample testing",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Root-cause analysis of findings",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Stakeholder interviews",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 25
+      }
+    ],
+    "new_responsibilities": [
+      "Auditing AI models & data pipelines"
+    ],
+    "future_skills": [
+      "AI/algorithm auditing",
+      "Continuous auditing techniques"
+    ]
+  },
+  {
+    "role": "Tax Analyst",
+    "level": "Analyst",
+    "processes": [
+      "Tax Compliance",
+      "Tax Reporting"
+    ],
+    "current_skills": [
+      "Tax code knowledge",
+      "Compliance filing",
+      "ERP tax modules"
+    ],
+    "ai_exposure_today": "Rule-based tax engines for standard filings.",
+    "activities": [
+      {
+        "activity": "Tax return preparation",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 35
+      },
+      {
+        "activity": "Regulatory research",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Tax provision calculations",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 20
+      },
+      {
+        "activity": "Advising business units",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 20
+      }
+    ],
+    "new_responsibilities": [
+      "Reviewing AI-prepared filings for edge cases"
+    ],
+    "future_skills": [
+      "Tax technology platforms",
+      "Cross-border regulatory literacy"
+    ]
+  },
+  {
+    "role": "FP&A Manager",
+    "level": "Manager",
+    "processes": [
+      "Planning",
+      "Forecasting",
+      "Business Partnering"
+    ],
+    "current_skills": [
+      "Financial planning",
+      "Leadership",
+      "Business partnering",
+      "Advanced Excel"
+    ],
+    "ai_exposure_today": "Driver-based planning tools; scenario modelling still manual.",
+    "activities": [
+      {
+        "activity": "Annual budget consolidation",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 20
+      },
+      {
+        "activity": "Rolling forecast modelling",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Business partnering with leadership",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 35
+      },
+      {
+        "activity": "Strategic scenario design",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": true,
+        "interpersonal": false,
+        "weight": 20
+      }
+    ],
+    "new_responsibilities": [
+      "Curating AI forecast assumptions",
+      "Translating AI outputs into strategy"
+    ],
+    "future_skills": [
+      "AI-augmented planning",
+      "Executive storytelling",
+      "Strategic advisory"
+    ]
+  },
+  {
+    "role": "Budget Analyst",
+    "level": "Analyst",
+    "processes": [
+      "Budget Preparation",
+      "Budget Monitoring"
+    ],
+    "current_skills": [
+      "Budgeting software",
+      "Variance tracking",
+      "Cost analysis"
+    ],
+    "ai_exposure_today": "Templated budget tools; manual variance chasing.",
+    "activities": [
+      {
+        "activity": "Budget data collection",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 30
+      },
+      {
+        "activity": "Variance monitoring",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": false,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Cost driver analysis",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Department liaison",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 20
+      }
+    ],
+    "new_responsibilities": [
+      "Managing AI-flagged budget anomalies"
+    ],
+    "future_skills": [
+      "AI-assisted cost modelling",
+      "Data visualisation"
+    ]
+  },
+  {
+    "role": "Cost Accountant",
+    "level": "Analyst",
+    "processes": [
+      "Costing",
+      "Inventory Valuation"
+    ],
+    "current_skills": [
+      "Standard costing",
+      "Variance analysis",
+      "ERP costing modules"
+    ],
+    "ai_exposure_today": "Automated cost roll-ups; manual variance investigation.",
+    "activities": [
+      {
+        "activity": "Standard cost updates",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 30
+      },
+      {
+        "activity": "Cost variance investigation",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 30
+      },
+      {
+        "activity": "Inventory valuation review",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 20
+      },
+      {
+        "activity": "Cross-functional cost reviews",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 20
+      }
+    ],
+    "new_responsibilities": [
+      "Validating AI cost-driver predictions"
+    ],
+    "future_skills": [
+      "Predictive costing",
+      "AI-assisted variance analysis"
+    ]
+  },
+  {
+    "role": "Credit Analyst",
+    "level": "Analyst",
+    "processes": [
+      "Credit Assessment",
+      "Portfolio Monitoring"
+    ],
+    "current_skills": [
+      "Credit scoring models",
+      "Financial statement analysis",
+      "Risk assessment"
+    ],
+    "ai_exposure_today": "ML credit scoring models widely used already.",
+    "activities": [
+      {
+        "activity": "Credit application scoring",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 30
+      },
+      {
+        "activity": "Financial statement analysis",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Exception / borderline case review",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Client relationship discussions",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 20
+      }
+    ],
+    "new_responsibilities": [
+      "Reviewing borderline AI credit decisions",
+      "Bias/fairness monitoring"
+    ],
+    "future_skills": [
+      "AI fairness & bias auditing",
+      "Advanced credit risk modelling"
+    ]
+  },
+  {
+    "role": "Investment Analyst",
+    "level": "Analyst",
+    "processes": [
+      "Research",
+      "Valuation",
+      "Portfolio Recommendations"
+    ],
+    "current_skills": [
+      "Valuation modelling",
+      "Market research",
+      "Financial modelling"
+    ],
+    "ai_exposure_today": "NLP tools for news/sentiment analysis emerging.",
+    "activities": [
+      {
+        "activity": "Financial data gathering",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": false,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 20
+      },
+      {
+        "activity": "Valuation modelling",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 30
+      },
+      {
+        "activity": "Investment thesis development",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": true,
+        "interpersonal": false,
+        "weight": 30
+      },
+      {
+        "activity": "Client/committee presentations",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": false,
+        "requires_creativity": true,
+        "interpersonal": true,
+        "weight": 20
+      }
+    ],
+    "new_responsibilities": [
+      "Critiquing AI-generated investment theses"
+    ],
+    "future_skills": [
+      "AI-assisted research synthesis",
+      "Alternative data analysis"
+    ]
+  },
+  {
+    "role": "Compliance Officer",
+    "level": "Manager",
+    "processes": [
+      "Regulatory Monitoring",
+      "Policy Enforcement",
+      "Reporting"
+    ],
+    "current_skills": [
+      "Regulatory knowledge",
+      "Policy design",
+      "Investigations"
+    ],
+    "ai_exposure_today": "Automated transaction monitoring alerts; manual investigation.",
+    "activities": [
+      {
+        "activity": "Regulatory change monitoring",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": false,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 20
+      },
+      {
+        "activity": "Transaction / alert investigation",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 30
+      },
+      {
+        "activity": "Policy design & enforcement",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": true,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Regulator & stakeholder liaison",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 25
+      }
+    ],
+    "new_responsibilities": [
+      "Governing AI models for compliance risk",
+      "Algorithmic accountability"
+    ],
+    "future_skills": [
+      "AI governance & ethics",
+      "RegTech platforms"
+    ]
+  },
+  {
+    "role": "Payroll Specialist",
+    "level": "Entry",
+    "processes": [
+      "Payroll Processing",
+      "Compliance"
+    ],
+    "current_skills": [
+      "Payroll systems",
+      "Tax withholding rules",
+      "Data accuracy"
+    ],
+    "ai_exposure_today": "Automated payroll runs; manual exception handling.",
+    "activities": [
+      {
+        "activity": "Payroll data entry & validation",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 35
+      },
+      {
+        "activity": "Payroll run processing",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Compliance checks",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 20
+      },
+      {
+        "activity": "Employee query resolution",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 20
+      }
+    ],
+    "new_responsibilities": [
+      "Reviewing AI-flagged payroll anomalies"
+    ],
+    "future_skills": [
+      "HRIS/AI tool literacy",
+      "Employee advisory skills"
+    ]
+  },
+  {
+    "role": "Financial Reporting Analyst",
+    "level": "Analyst",
+    "processes": [
+      "External Reporting",
+      "Consolidation"
+    ],
+    "current_skills": [
+      "IFRS/GAAP",
+      "Consolidation tools",
+      "Report writing"
+    ],
+    "ai_exposure_today": "Automated report templates; manual narrative writing.",
+    "activities": [
+      {
+        "activity": "Financial statement consolidation",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 30
+      },
+      {
+        "activity": "Disclosure checklist compliance",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Report narrative drafting",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": true,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Audit liaison",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 20
+      }
+    ],
+    "new_responsibilities": [
+      "Editing AI-drafted disclosures for accuracy"
+    ],
+    "future_skills": [
+      "AI-assisted report drafting",
+      "XBRL & reporting technology"
+    ]
+  },
+  {
+    "role": "M&A Analyst",
+    "level": "Analyst",
+    "processes": [
+      "Deal Sourcing",
+      "Due Diligence",
+      "Valuation"
+    ],
+    "current_skills": [
+      "Valuation modelling",
+      "Due diligence",
+      "Deal structuring"
+    ],
+    "ai_exposure_today": "Document review AI emerging in due diligence.",
+    "activities": [
+      {
+        "activity": "Data room document review",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": false,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Valuation & synergy modelling",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 30
+      },
+      {
+        "activity": "Deal strategy development",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": true,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Negotiation support",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 20
+      }
+    ],
+    "new_responsibilities": [
+      "Validating AI-surfaced due-diligence risks"
+    ],
+    "future_skills": [
+      "AI-assisted due diligence",
+      "Deal structuring creativity"
+    ]
+  },
+  {
+    "role": "Procurement Manager",
+    "level": "Manager",
+    "processes": [
+      "Category Strategy",
+      "Supplier Relationship Management"
+    ],
+    "current_skills": [
+      "Category strategy",
+      "Negotiation",
+      "Team leadership"
+    ],
+    "ai_exposure_today": "Spend-analytics dashboards; manual category strategy.",
+    "activities": [
+      {
+        "activity": "Category strategy development",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": true,
+        "interpersonal": false,
+        "weight": 30
+      },
+      {
+        "activity": "Supplier performance reviews",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Contract negotiation",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 25
+      },
+      {
+        "activity": "Team leadership",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 20
+      }
+    ],
+    "new_responsibilities": [
+      "Directing AI-driven category insights"
+    ],
+    "future_skills": [
+      "AI-enabled category management",
+      "Strategic sourcing"
+    ]
+  },
+  {
+    "role": "Vendor Manager",
+    "level": "Analyst",
+    "processes": [
+      "Vendor Onboarding",
+      "Performance Management"
+    ],
+    "current_skills": [
+      "Vendor scorecards",
+      "SLA management",
+      "Contract admin"
+    ],
+    "ai_exposure_today": "Automated SLA dashboards; manual escalation handling.",
+    "activities": [
+      {
+        "activity": "Vendor onboarding checks",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "SLA / performance tracking",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": false,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Escalation management",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 30
+      },
+      {
+        "activity": "Relationship reviews",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 20
+      }
+    ],
+    "new_responsibilities": [
+      "Overseeing AI-generated vendor risk alerts"
+    ],
+    "future_skills": [
+      "AI-assisted vendor analytics",
+      "Relationship management"
+    ]
+  },
+  {
+    "role": "Financial Systems Analyst",
+    "level": "Analyst",
+    "processes": [
+      "ERP Support",
+      "Systems Integration"
+    ],
+    "current_skills": [
+      "ERP configuration",
+      "SQL",
+      "Process mapping"
+    ],
+    "ai_exposure_today": "Automation scripts for routine system tasks.",
+    "activities": [
+      {
+        "activity": "System configuration & maintenance",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": true,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 30
+      },
+      {
+        "activity": "Data integration testing",
+        "structured": true,
+        "repetitive": true,
+        "rule_based": false,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Process improvement design",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": true,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "User support & training",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": false,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 20
+      }
+    ],
+    "new_responsibilities": [
+      "Integrating AI models into finance systems"
+    ],
+    "future_skills": [
+      "AI/ML systems integration",
+      "Process automation design"
+    ]
+  },
+  {
+    "role": "CFO / Finance Director",
+    "level": "Executive",
+    "processes": [
+      "Strategic Planning",
+      "Investor Relations",
+      "Governance"
+    ],
+    "current_skills": [
+      "Strategic leadership",
+      "Capital allocation",
+      "Board communication"
+    ],
+    "ai_exposure_today": "AI dashboards inform decisions; strategy remains human-led.",
+    "activities": [
+      {
+        "activity": "Strategic & capital allocation decisions",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": true,
+        "interpersonal": false,
+        "weight": 35
+      },
+      {
+        "activity": "Board & investor communication",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": false,
+        "requires_creativity": true,
+        "interpersonal": true,
+        "weight": 30
+      },
+      {
+        "activity": "Governance & risk oversight",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": true,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 20
+      },
+      {
+        "activity": "Executive team leadership",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 15
+      }
+    ],
+    "new_responsibilities": [
+      "Setting enterprise AI governance strategy",
+      "Sponsoring AI-driven transformation"
+    ],
+    "future_skills": [
+      "AI strategy & governance",
+      "Change leadership",
+      "Ethical AI oversight"
+    ]
+  },
+  {
+    "role": "Finance Business Partner",
+    "level": "Manager",
+    "processes": [
+      "Business Partnering",
+      "Decision Support"
+    ],
+    "current_skills": [
+      "Commercial acumen",
+      "Stakeholder management",
+      "Financial analysis"
+    ],
+    "ai_exposure_today": "Ad-hoc analytics support; relationship-led role.",
+    "activities": [
+      {
+        "activity": "Commercial performance analysis",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Decision support modelling",
+        "structured": true,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": false,
+        "weight": 25
+      },
+      {
+        "activity": "Stakeholder advisory & influencing",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": false,
+        "requires_creativity": true,
+        "interpersonal": true,
+        "weight": 35
+      },
+      {
+        "activity": "Cross-functional project support",
+        "structured": false,
+        "repetitive": false,
+        "rule_based": false,
+        "requires_judgment": true,
+        "requires_creativity": false,
+        "interpersonal": true,
+        "weight": 15
+      }
+    ],
+    "new_responsibilities": [
+      "Interpreting AI insights for business stakeholders"
+    ],
+    "future_skills": [
+      "AI-augmented advisory",
+      "Influencing & storytelling",
+      "Commercial strategy"
+    ]
+  }
+]
